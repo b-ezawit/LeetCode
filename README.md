@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/b-ezawit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/b-ezawit/LeetCode/tree/master/0022-generate-parentheses) |
 | [0179-largest-number](https://github.com/b-ezawit/LeetCode/tree/master/0179-largest-number) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/b-ezawit/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 ## Counting
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/b-ezawit/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/b-ezawit/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/b-ezawit/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/b-ezawit/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/b-ezawit/LeetCode/tree/master/1854-maximum-population-year) |
 ## Sorting
 |  |
